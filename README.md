@@ -240,16 +240,18 @@ mindmap
 
 | # | Repository | Description | Stack |
 |---|-----------|-------------|-------|
-| 01 | [**enterprise-kubernetes-platform**](https://github.com/balvantvishwakarma/enterprise-kubernetes-platform) | Production K8s with Helm, Istio, HPA, RBAC, Network Policies | `EKS` `AKS` `Helm` `Istio` |
-| 02 | [**terraform-aws-azure-infra**](https://github.com/balvantvishwakarma/terraform-aws-azure-infra) | Multi-cloud IaC modules for enterprise landing zones | `Terraform` `AWS` `Azure` |
-| 03 | [**docker-enterprise-platform**](https://github.com/balvantvishwakarma/docker-enterprise-platform) | Optimized images, Compose stacks, Swarm configs | `Docker` `Compose` `Swarm` |
+| 01 | [**enterprise-kubernetes-platform**](https://github.com/balvantvishwakarma/kubernetes-platform) | Production K8s with Helm, Istio, HPA, RBAC, Network Policies | `EKS` `AKS` `Helm` `Istio` |
+| 02 | [**terraform-aws-azure-infra**](https://github.com/balvantvishwakarma/terraform-infrastructure) | Multi-cloud IaC modules for enterprise landing zones | `Terraform` `AWS` `Azure` |
+| 03 | [**docker-enterprise-platform**](https://github.com/balvantvishwakarma/docker-enterprise) | Optimized images, Compose stacks, Swarm configs | `Docker` `Compose` `Swarm` |
 | 04 | [**github-actions-cicd**](https://github.com/balvantvishwakarma/github-actions-cicd) | Enterprise CI/CD with security scanning & deployments | `GitHub Actions` `SAST` |
-| 05 | [**jenkins-enterprise-pipelines**](https://github.com/balvantvishwakarma/jenkins-enterprise-pipelines) | Shared libraries, multi-branch pipelines, SonarQube | `Jenkins` `Groovy` `Nexus` |
-| 06 | [**enterprise-monitoring-stack**](https://github.com/balvantvishwakarma/enterprise-monitoring-stack) | Prometheus + Grafana + Loki + AlertManager platform | `Prometheus` `Grafana` |
-| 07 | [**linux-automation-toolkit**](https://github.com/balvantvishwakarma/linux-automation-toolkit) | Bash automation for hardening, backups, health checks | `Bash` `Systemd` `Cron` |
-| 08 | [**windows-server-automation**](https://github.com/balvantvishwakarma/windows-server-automation) | PowerShell DSC, AD automation, IIS deployment | `PowerShell` `DSC` `AD` |
-| 09 | [**cloud-infrastructure-lab**](https://github.com/balvantvishwakarma/cloud-infrastructure-lab) | AWS & Azure hands-on labs for architecture patterns | `AWS` `Azure` `IaC` |
-| 10 | [**devops-interview-lab**](https://github.com/balvantvishwakarma/devops-interview-lab) | Real-world troubleshooting scenarios & interview prep | `K8s` `Docker` `Linux` |
+| 05 | [**jenkins-enterprise-pipelines**](https://github.com/balvantvishwakarma/jenkins-enterprise) | Shared libraries, multi-branch pipelines, SonarQube | `Jenkins` `Groovy` `Nexus` |
+| 06 | [**enterprise-monitoring-stack**](https://github.com/balvantvishwakarma/monitoring-stack) | Prometheus + Grafana + Loki + AlertManager platform | `Prometheus` `Grafana` |
+| 07 | [**linux-automation-toolkit**](https://github.com/balvantvishwakarma/linux-automation) | Bash automation for hardening, backups, health checks | `Bash` `Systemd` `Cron` |
+| 08 | [**windows-server-automation**](https://github.com/balvantvishwakarma/windows-automation) | PowerShell DSC, AD automation, IIS deployment | `PowerShell` `DSC` `AD` |
+| 09 | [**cloud-infrastructure-lab**](https://github.com/balvantvishwakarma/cloud-lab) | AWS & Azure hands-on labs for architecture patterns | `AWS` `Azure` `IaC` |
+| 10 | [**devops-interview-lab**](https://github.com/balvantvishwakarma/devops-interview) | Real-world troubleshooting scenarios & interview prep | `K8s` `Docker` `Linux` |
+| 11 | [**Ansible_Automation**](https://github.com/balvantvishwakarma/Ansible_Automation) | Automated MongoDB lifecycle management on AWS EC2 using Ansible, AWS SSM & Docker with Ansible Vault, supporting Start/Stop/Restart/Upgrade operations, EBS snapshot-based backup before upgrades, automatic MongoDB version updates, and Docker Compose deployment. | `Ansible` `AWS SSM` `EC2` `Docker` `Docker Compose` `MongoDB` `EBS` `Ansible Vault` |
+
 
 </div>
 
