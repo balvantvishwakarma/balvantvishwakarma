@@ -259,25 +259,15 @@ mindmap
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=balvantvishwakarma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=balvantvishwakarma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=10&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://img.shields.io/github/followers/balvantvishwakarma?style=for-the-badge&color=0D7377" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/balvantvishwakarma?style=for-the-badge&color=FFB800" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=balvantvishwakarma&style=for-the-badge&color=00D4AA" alt="Profile Views" />
 </p>
 
-<!-- GitHub Streak -->
 <p>
-  <img src="https://streak-stats.demolab.com?user=balvantvishwakarma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="65%" />
-</p>
-
-<!-- GitHub Trophies -->
-<p>
-  <img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=balvantvishwakarma&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="90%" />
-</p>
-
-<!-- Contribution Graph -->
-<p>
-  <img src="https://github-readme-activity-graph-git-masterrstaa-rickstaa.vercel.app/graph?username=balvantvishwakarma&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa22" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balvantvishwakarma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balvantvishwakarma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa" alt="Top Languages" height="150" />
 </p>
 
 </div>
