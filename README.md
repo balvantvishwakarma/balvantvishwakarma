@@ -41,7 +41,7 @@
 
 <pre align="center">
 ┌─────────────────────────────────────────────────────────────────┐
-│  <b>Name:</b>     Balvant Vishwakarma                                  │
+│  <b>Name:</b>     Balvant Vishwakarma...                                  │
 │  <b>Role:</b>     DevOps Engineer & Cloud Architect                     │
 │  <b>Company:</b>  BaseSolve Informatics Private Limited                  │
 │  <b>Location:</b> Ahmedabad, Gujarat, India                              │
