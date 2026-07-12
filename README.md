@@ -265,13 +265,13 @@ mindmap
 
 <!-- GitHub Stats Cards -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=balvantvishwakarma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balvantvishwakarma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=10&hide=html,css&cache_seconds=1800" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-812d.vercel.app/api?username=balvantvishwakarma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-812d.vercel.app/api/top-langs/?username=balvantvishwakarma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=10&hide=html,css" alt="Top Languages" height="170" />
 </p>
 
 <!-- GitHub Streak -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=balvantvishwakarma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="65%" />
+  <img src="https://streak-stats.demolab.com?user=balvantvishwakarma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="65%" />
 </p>
 
 <!-- GitHub Trophies -->
@@ -285,7 +285,6 @@ mindmap
 </p>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Graph Animation
