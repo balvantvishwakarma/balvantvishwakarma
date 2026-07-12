@@ -255,12 +255,6 @@ mindmap
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](github-metrics.svg)
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
