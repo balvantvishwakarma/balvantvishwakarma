@@ -41,13 +41,13 @@
 
 <pre align="center">
 ┌─────────────────────────────────────────────────────────────────┐
-│  <b>Name:</b>     Balvant Vishwakarma...                          │
-│  <b>Role:</b>     DevOps Engineer & Cloud Architect               │
-│  <b>Company:</b>  BaseSolve Informatics Private Limited           │
-│  <b>Location:</b> Ahmedabad, Gujarat, India                       │
-│  <b>Education:</b> M.Sc. IMS & Cloud Engineering (2025)           │
-│  <b>Focus:</b>    Kubernetes · Terraform · AWS · Azure · CI/CD    │
-│  <b>Motto:</b>    "Infrastructure as Code. Automation by Design." │
+│  <b>Name:</b>     Balvant Vishwakarma...                            │
+│  <b>Role:</b>     DevOps Engineer & Cloud Architect                 │
+│  <b>Company:</b>  BaseSolve Informatics Private Limited             │
+│  <b>Location:</b> Ahmedabad, Gujarat, India                         │
+│  <b>Education:</b> M.Sc. IMS & Cloud Engineering (2025)             │
+│  <b>Focus:</b>    Kubernetes · Terraform · AWS · Azure · CI/CD      │
+│  <b>Motto:</b>    "Infrastructure as Code. Automation by Design."   │
 └─────────────────────────────────────────────────────────────────┘
 </pre>
 
