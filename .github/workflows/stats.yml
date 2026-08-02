@@ -1,29 +1,33 @@
-name: Generate GitHub Stats
+name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight
-  workflow_dispatch:  # Manual trigger
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Generate Stats
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: balvantvishwakarma
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          
+          filename: github-metrics.svg
+
       - name: Commit and Push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A
-          git commit -m "Update stats" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git diff --staged --quiet || git commit -m "chore: update github-metrics.svg [skip ci]"
           git push
