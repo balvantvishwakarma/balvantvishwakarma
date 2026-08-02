@@ -124,16 +124,16 @@ Advanced Kubernetes Operators · OpenTelemetry · Flux CD · Crossplane · AWS S
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=balvantvishwakarma&show_icons=true&theme=transparent&hide_border=true&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balvantvishwakarma&layout=compact&theme=transparent&hide_border=true&title_color=00d4aa&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165" />
+<img height="165" src="https://github-readme-stats-812d.vercel.app/api?username=balvantvishwakarma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-812d.vercel.app/api/top-langs/?username=balvantvishwakarma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=balvantvishwakarma&theme=transparent&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="GitHub Streak" width="455" />
+<img width="455" src="https://streak-stats.demolab.com/?user=balvantvishwakarma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balvantvishwakarma&theme=github-compact&hide_border=true&bg_color=00000000&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa22" alt="Contribution Graph" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=balvantvishwakarma&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa22" alt="Contribution Graph" />
 
 </div>
 
